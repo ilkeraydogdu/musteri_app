@@ -1,6 +1,15 @@
 <p align="center">
   <a href="https://qordy.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=200&section=header&text=Qordy%20Guest&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Digital%20Dining%2C%20Contactless%20Ordering%20%26%20Loyalty&descAlignY=60&descSize=16" width="100%"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo_light.png">
+      <img src="assets/images/logo.png" alt="Qordy Logo" width="220">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://qordy.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=180&section=header&text=Qordy%20Guest&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Digital%20Dining%2C%20Contactless%20Ordering%20%26%20Loyalty&descAlignY=62&descSize=15" width="100%"/>
   </a>
 </p>
 
